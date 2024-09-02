@@ -10,6 +10,7 @@ Welcome to the 2024 Summer Session Project list! This is a combined list of proj
 | Name  | Desc  | Languages/Skills  |
 |-----------|-----------|-----------|
 | [BME IT Bot](https://github.com/ciaracade/bme-it-slack-bot) by [Ciara Cade](https://github.com/ciaracade) | 👩🏽‍💻 A chat bot that seamlessly integrates TeamDynamix, OpenAI, and Slack to provide efficient ticket assistance for the UofM BME IT Department. | REST APIs, AI, Slack SDK |
+| [WatchListed](https://github.com/siaxvii/WatchListed) by [Lasya Yakkala](https://github.com/siaxvii), [Daniyal Kashif](https://github.com/dkashif), [Tuntufye Mwakalasya](https://github.com/Tmwakalasya), [Diana Perales](https://github.com/dgarciaperales), [Amelia Do](https://github.com/dntrAnh), [Kabelo Dike](https://github.com/dike12) | 📺 Discover your next favorite TV show with WatchListed — a TV show recommendation platform designed to offer personalized TV show recommendations based on your unique preferences. WatchListed tailors recommendations to your tastes, helping you find shows you'll love with minimal effort. Check it out here! https://watch-listed.vercel.app/ | This platform is deployed with Vercel and AWS, and is built with Python, Next.js, TypeScript, TailwindCSS, PostgreSQL, Prisma ORM, CockroachDB, FastAPI, REST APIs, Uvicorn, and scikit-learn.| 
 
 
 ## How to contribute 👀
