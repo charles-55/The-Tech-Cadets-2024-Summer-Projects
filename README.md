@@ -4,13 +4,14 @@ Welcome to the 2024 Summer Session Project list! This is a combined list of proj
 ## How to Use ‼️
 1. In your browser, hit Ctrl+F (Windows, Linux, and Chrome OS) and ⌘-F (Mac) to bring up the find bar on the page.
 2. Type in a keyword or title to locate a project.
-3. Browse projects respositories via hyperlinks.
+3. Browse projects repositories via hyperlinks.
 
 ## 2024 Summer Session projects 🔥
 | Name  | Desc  | Languages/Skills  |
 |-----------|-----------|-----------|
 | [BME IT Bot](https://github.com/ciaracade/bme-it-slack-bot) by [Ciara Cade](https://github.com/ciaracade) | 👩🏽‍💻 A chat bot that seamlessly integrates TeamDynamix, OpenAI, and Slack to provide efficient ticket assistance for the UofM BME IT Department. | REST APIs, AI, Slack SDK |
 | [WatchListed](https://github.com/siaxvii/WatchListed) by [Lasya Yakkala](https://github.com/siaxvii), [Daniyal Kashif](https://github.com/dkashif), [Tuntufye Mwakalasya](https://github.com/Tmwakalasya), [Diana Perales](https://github.com/dgarciaperales), [Amelia Do](https://github.com/dntrAnh), [Kabelo Dike](https://github.com/dike12) | 📺 Discover your next favorite TV show with WatchListed — a TV show recommendation platform designed to offer personalized TV show recommendations based on your unique preferences. WatchListed tailors recommendations to your tastes, helping you find shows you'll love with minimal effort. Check it out here! https://watch-listed.vercel.app/ | This platform is deployed with Vercel and AWS, and is built with Python, Next.js, TypeScript, TailwindCSS, PostgreSQL, Prisma ORM, CockroachDB, FastAPI, REST APIs, Uvicorn, and scikit-learn.| 
+| [Clean Cycle](https://github.com/rkareem2/Clean-Cycle_flutter-app) by [Rasheed Kareem](https://github.com/rkareem2), [Osamudiamen Nwoko](https://github.com/charles-55), [Meryem](https://github.com/meryem071), [Demilade Onasanya](https://github.com/Demil-05), [Promise Adeliyi](https://github.com/promiseadeliyi), Kayla Rayes, Mercy | ♻️ CleanCycle is a mobile application designed to address the pressing issue of environmental pollution and promote recycling to protect the environment. It serves as a platform for individuals and companies to actively participate in waste management efforts and contribute to a cleaner and more sustainable planet. | Flutter, Firebase Auth, Firebase Cloud Firestore, Gemini AI, Google Cloud Platform |
 
 
 ## How to contribute 👀
